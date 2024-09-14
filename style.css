@@ -1,0 +1,115 @@
+.br{border: 2px solid red;}
+.buu{border: 2px solid blue;}
+.bmm{border: 2px solid magenta;}
+
+*{
+    padding: o; margin: 0; box-sizing: border-box;
+}
+
+
+.h-700px{
+    min-height: 700px;
+}
+
+.bc-black{
+    background-color: black;
+}
+
+.c-white{
+    color: white;
+}
+
+.h-300px{
+    min-height: 300px;
+}
+
+
+.nav-item{
+    font-size: 20px;
+}
+
+.nav-item:hover{
+
+    color: black;
+    font-weight: 700;
+    
+}
+
+.first-section{
+    background-image: url(38f9de26-4a64-4636-b6c2-004d49264e17.avif);
+    background-repeat: no-repeat;
+    background-size: cover;
+    filter: grayscale(.1);
+} 
+
+.card-section{
+   background-color: white;
+   color: black;
+
+   
+}
+
+.first-t-card{
+    border-radius: 25px;
+    border-right: 4px solid black;
+ 
+    background-color: white;
+    height: 300px;
+    align-items: start;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    gap: 20px;
+}
+
+
+.first-t-card p{
+    width: 60%;
+}
+
+
+
+.first-three-card{
+    background-image: url(view-wild-leopard-nature_23-2150460835.avif);
+
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.two-three-card{
+    background-image: url(vividly-colored-hummingbird-natural-environment_23-2151495344.avif);
+
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.three-three-card{
+    background-image: url(photorealistic-scene-wild-elephant_23-2151436797.avif);
+
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.h-500px{
+    min-height: 700px;
+}
+
+.left{
+    background-image: url(closeup-scarlet-macaw-from-side-view-scarlet-macaw-closeup-head_488145-3540.avif);
+    background-repeat: no-repeat;
+    background-size: cover;
+    color: white;
+}
+
+.right{
+    background-image: url(colorful-bird-with-blue-red-feathers-stands-rock_1308172-508972.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    color: white;
+}
+
+.left-five{
+    background-image: url(blue-monkey-cercopithecus-mitis-blue-monkey-cercopithecus-mitis-beautiful-common-primate-african-forests-woodlands-bwindi-233684975.webp);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
